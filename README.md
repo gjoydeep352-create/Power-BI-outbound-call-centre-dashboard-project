@@ -37,3 +37,4 @@ Clone/download this repo
 Open the .pbix file in Power BI Desktop
 Refresh data source if connected to a live dataset
 Explore via filters, slicers, and drill-through pages
+![Dashboard Preview](Dashboard%20Pic.png)
